@@ -78,6 +78,7 @@ claude
 | 6 | [06-memory-engine.md](06-memory-engine.md) | iai-pme — локальна памʼять асистента між сесіями |
 | 7 | [07-graphiti.md](07-graphiti.md) | Graphiti — граф памʼяті зі звʼязками і часом |
 | 8 | [08-check.md](08-check.md) | Перевірка всього і шпаргалка на щодня |
+| 9 | [09-avtomatyka.md](09-avtomatyka.md) | Памʼять працює сама: `/brain close` розносить усе в базу, iai-pme і граф |
 
 Етапи йдуть по порядку. Кожен спирається на попередній.
 

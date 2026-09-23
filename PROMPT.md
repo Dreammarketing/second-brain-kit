@@ -178,12 +178,12 @@ https://github.com/Dreammarketing/second-brain-kit
 `~/ClaudeCodeProjects/my-brain`. Якщо це не так — повернись на крок 5
 і скажи мені, що пішло не так. Далі не йди.
 
-У комплекті девʼять етапів, від `00-start.md` до `08-check.md`.
+У комплекті десять етапів, від `00-start.md` до `09-avtomatyka.md`.
 
 Подивись, які з них у мене вже пройдені. Ознаки шукай на диску в папці бази
 `~/ClaudeCodeProjects/my-brain`, а не питай у мене: чи є `CLAUDE.md` і `INDEX.md`,
 чи є папка `projects/`, чи є скіл у `.claude/skills/brain/`, чи стоїть iai-pme,
-чи піднятий Graphiti.
+чи піднятий Graphiti, чи є посилання `~/.claude/skills/brain` (ознака етапу 9).
 
 Покажи таблицею: **етап — зроблено чи ні — за якою ознакою ти це визначив**.
 
